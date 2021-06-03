@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the sign of the moon and stars in Leopard's Court in Baldwins-Gardens near Holborn, lives a gentleman, who by the benefit of a learned education in the University of Louvain, daily study and 30 years practice and travels, has arrived to a greater perfection in several arts than the common practioners in physick and astrology can justly pretend to ...</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17302</idno><idno type="EEBO-CITATION">99888836</idno>
+  <idno type="VID">196029</idno>
+  <idno type="EEBO-PROQUEST">2248545346</idno>
+  
+            <idno type="STC">Wing A4102C</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[37]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[54]</idno>
+            <idno type="STC">ESTC R232239</idno>
+            <idno type="PROQUEST">ocm99888836</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888836e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17302)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196029)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[37], E8:2[53])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the sign of the moon and stars in Leopard's Court in Baldwins-Gardens near Holborn, lives a gentleman, who by the benefit of a learned education in the University of Louvain, daily study and 30 years practice and travels, has arrived to a greater perfection in several arts than the common practioners in physick and astrology can justly pretend to ...</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from first lines of text.</note>
+                  <note>Page [2] partially in verse.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Predictive astrology --  England --  Early works to 1800.</term>
+               <term type="topical_term">Scurvy --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_an_astrologer">
+            <pb facs="tcp:196029:1"/>
+            <p>AT the Sign of the Moon and Stars in <hi>Leopard's Court</hi> in <hi>Bald<g ref="char:EOLhyphen"/>wins-Gardens</hi> near <hi>Holbern,</hi> Lives a Gentleman, who by the be<g ref="char:EOLhyphen"/>nefit of a learned Education in the University of <hi>Louvain,</hi> daily study and 30 Years Practice and Travels, has arrived to a greater Per<g ref="char:EOLhyphen"/>fection in several Arts than the common Practitioners in Physick and Astrology can justly pretend to. And were it not to prevent you from being imposed on by ignorant Pretenders he would never have appeared in Print. To strangers that cannot speak <hi>English</hi> he speaks <hi>Latin</hi> or <hi>French.</hi>
+            </p>
+            <p>☞ Those that can procure the time of their birth are desired to bring it with them, because some Questions are best answer'd and some diseases best discovered by the Party's Nativity.</p>
+            <p>He tells what Good or Ill shall befal you, and when, whether Rich or Poor, and by what means? When a change shall happen? What Part is best to live in? If an absent party be dead or Alive? Shall you reco<g ref="char:EOLhyphen"/>ver Goods or Money lent or due? If good to travel? Good to remove or not? In law suits who shall gain the better? A woman with Child or not? Lodgers or servants honest or not? If marry, and when, and how oft, and what sort of person? Courtship or Friendship real or not? If overcome your enemies or not? Shall you obtain the Office or place desired or not? Or when get a place? What Trade is best to follow? Whether ones imprisonment, misfortunes, or distempers shall be long or short? He tells the Cause of your distemper and whether one sick shall recover or not. He interprets any dream, and honestly answers all other lawful Questions.</p>
+            <p>{inverted ⁂} He Calculates Nativities most exactly and at reasonable Rates, discovering thereby all the great Accidents and Changes of the Nati- Life-</p>
+            <p>☞ If you bring or send your own Birth, or the Birth of any other Person, the tells you without asking any Questions, what hath hap<g ref="char:EOLhyphen"/>pened as well as what Will happen, to you or them. Persons of Qua<g ref="char:EOLhyphen"/>lity that have not a mind to come, may send their Births, and have any Question answer'd. He tells whether any Child shall live or die.</p>
+            <p>† If you be any ways afflicted or troubled in Mind by any means whatsoever, he tells you the best way to overcome those Afflictions or Troubles.</p>
+            <p>☞ He fells the famous scots Pills which are a most safe, effectual, and easie purge, eminent for curing the <hi>Scurvy</hi> &amp; <hi>Dropsie,</hi> and are excellent after hard drinking and surfeits. They open <hi>Obstructions,</hi> and are incomparable for the <hi>Green-Sickness,</hi> and other Distempers in Women, they neither gripe, nor makes the Party Sick. They are excellent in most Distempers where gentle Purging is required <hi>Price</hi> 1 <hi>s. the Box.</hi>
+            </p>
+            <p>His wife sells excellent beautifying Washes at 1<hi>s.</hi> the Bottle and has Proper Remedies for several diseases incident to the female sex.</p>
+            <p>
+               <hi>His Cephalick powder is a present Remedy for all Diseases of the Head, proceeding from colds or any excess of Humours, price</hi> 6 d. <hi>a paper. 'Tis to be taken up the Nose: one paper generally cures any Pain, cold or humour in the head, and cures or prevents many Dismal Distempers, <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:196029:2"/>the apoplexy, Megrim, head-ach, Lethargy, heaviness, Deafness, Obstru<g ref="char:EOLhyphen"/>ctions, Stopage in the Head,</hi> &amp;c. <hi>as also cataracts or suffusions, and any Rheum fallen into the Eyes. It has cured many other Distempers of the Eyes by carrying off the offending Humour thro' the nose, which it per<g ref="char:EOLhyphen"/>forms without danger.</hi>
+            </p>
+            <p>☞ <hi>He gives Advice, and for any Disease sells wholesome Medicines at very reasonable Rates. Particularly he cures Vapours, the Green sickness, and most other Diseases incident to Women, without such nautious physick as others force upon them. He has also a pleasant Remedy for the Worms.</hi>
+            </p>
+            <lg>
+               <l>Would you your Minds free from each labouring Doubt,</l>
+               <l>The future State of your Disease find out?</l>
+               <l>The WHEN and HOW of things to come explore,</l>
+               <l>Shall you grow Rich (or God forbid!) be Poor?</l>
+               <l>Are you fal'n Sick, or grievous Pains endure?</l>
+               <l>He'll tell the Best and Speedi'st way of Cure.</l>
+               <l>If good to Marry, if the charming Soul</l>
+               <l>That wounds your Heart, will ever make it whole.</l>
+               <l>Ask but the Dr. you shall truly know</l>
+               <l>What in each thing the ruling Stars will do.</l>
+            </lg>
+            <p>This is the same Doctor that liv'd in <hi>Globe-Court,</hi> and after that in <hi>Hanging-Sword-Court</hi> in <hi>Fleet-Street.</hi>
+            </p>
+            <p>When you are in <hi>Baldwins-Gardens,</hi> that you may not mistake, ask for <hi>Leopard</hi>'s-<hi>Court</hi> and there at the Sign of the <hi>Moon</hi> and <hi>Stars</hi> you will find the <hi>Louvain Doctor</hi> from 8 in the Morning till 7 at Night. As you pass by the End of Leopard<hi>'s</hi>-Court you may see the Sign of the <hi>Moon</hi> and <hi>Stars,</hi> which pray observe, least you mistake; for there are several Pretenders; therefore keep this Bill. <hi>Baldwins-Gar<g ref="char:EOLhyphen"/>dens</hi> are near <hi>Holborn.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
